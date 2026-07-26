@@ -6,13 +6,13 @@ I build and debug software where external services, application state, and user 
 
 ## Selected work
 
-- **[Stafr product engineering case study](https://github.com/Stommasi19/stafr-case-study)** — Built an AI business-operations product over a focused three-month development cycle, including OAuth integrations, provider setup and recovery, messaging workflows, approval queues, configuration UI, and end-to-end debugging.
+- **[Stafr product engineering case study](https://github.com/Stommasi19/stafr-case-study)** — Contributed customer-facing OAuth integrations, provider setup and recovery, messaging workflows, approval queues, configuration UI, and end-to-end debugging during a focused three-month development cycle.
 - **[Bike2Beans](https://github.com/Stommasi19/Bike2Beans)** — Full-stack cycling route planner built with ASP.NET Core, C#, React/TypeScript, MongoDB, Firebase, Google Places, and Mapbox. Includes 38 passing automated tests.
 - **[Relay](https://github.com/Stommasi19/Relay-Customer-Engineering-Copilot)** — Support-ticket workspace for investigating customer integrations, API failures, linked engineering work, and next actions.
 
 ## Additional project
 
-- **Canvas Clone LMS** — MERN learning-management system with student, instructor, and administrator workflows across courses, modules, assignments, quizzes, enrollments, and submissions. Built with React, Redux, Express, MongoDB, REST APIs, request validation, endpoint testing, and API documentation.
+- **[Canvas Clone LMS case study](https://github.com/Stommasi19/canvas-lms-case-study)** — Three-person MERN learning-management system with student, faculty, and administrator workflows. My contribution centered on quiz authoring, timed attempts, grading, sessions, and REST/MongoDB integration.
 
 ## Technical focus
 
