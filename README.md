@@ -1,23 +1,24 @@
 # Sebastian Tommasi
 
-Technical support and integration engineer in Redmond, Washington, focused on APIs, OAuth, SaaS troubleshooting, and customer-facing systems.
+Software engineer in Redmond, Washington who turns ambiguous problems into dependable, usable products.
 
-I build and debug software where external services, application state, and user workflows meet. My strongest work spans full-stack product development, provider integrations, authentication and recovery flows, validation, testing, and translating ambiguous problems into usable technical solutions.
+I work across frontend, backend, data, APIs, authentication, and deployment. My projects span product workflows, external-service integrations, maps and geospatial data, role-aware applications, reliability, testing, and turning a rough idea into software people can actually use.
 
-## Selected work
+## What I build
 
-- **[Stafr](https://github.com/Stommasi19/stafr-case-study)** — Contributed customer-facing OAuth integrations, provider setup and recovery, messaging workflows, approval queues, configuration UI, and end-to-end debugging during a focused three-month development cycle.
+- **[Stafr](https://github.com/Stommasi19/stafr-integrations-workflows)** — Contributed provider integrations, OAuth lifecycle and recovery flows, messaging and approval workflows, configuration UI, and end-to-end debugging for an AI operations platform.
 - **[Bike2Beans](https://github.com/Stommasi19/Bike2Beans)** — Full-stack cycling route planner built with ASP.NET Core, C#, React/TypeScript, MongoDB, Firebase, Google Places, and Mapbox. Includes 38 passing automated tests.
-- **[Relay](https://github.com/Stommasi19/Relay-Customer-Engineering-Copilot)** — Support-ticket workspace for investigating customer integrations, API failures, linked engineering work, and next actions.
+- **[Relay](https://github.com/Stommasi19/relay-operations-workspace)** — Workflow workspace for connecting integration evidence, engineering context, and clear next actions across a complex investigation.
+- **[Canvas LMS](https://github.com/Stommasi19/canvas-lms)** — Collaborative full-stack learning-management system with React, Express, MongoDB, session-based access, and role-aware course and quiz workflows.
 
-## Additional project
+## How I work
 
-- **[Canvas Clone LMS](https://github.com/Stommasi19/canvas-lms-case-study)** — Three-person MERN learning-management system with student, faculty, and administrator workflows. My contribution centered on quiz authoring, timed attempts, grading, sessions, and REST/MongoDB integration.
+I like the parts of engineering that require range: understanding the problem, designing a clean interface, working through data and state, integrating the right services, testing the risky paths, and improving the experience when the first version meets reality.
 
-## Technical focus
+## Tools and technologies
 
-API integration · OAuth · SaaS troubleshooting · TypeScript · React · Node.js · C# · ASP.NET Core · PostgreSQL · MongoDB · REST APIs · Docker · Git · xUnit · Jest
+TypeScript · React · Node.js · C# · ASP.NET Core · PostgreSQL · MongoDB · REST APIs · OAuth · Docker · Git · xUnit · Jest · Mapbox · Firebase
 
-I am pursuing technical support, product support, application support, implementation engineering, and integration-focused software roles, with a long-term path toward solutions engineering.
+I’m open to early-career roles where I can build, ship, learn quickly, and take meaningful ownership across the product and engineering lifecycle.
 
 [LinkedIn](https://www.linkedin.com/in/sebastian-tommasi/) · [Stafr](https://stafr.app)
