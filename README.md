@@ -11,9 +11,6 @@ I work across frontend, backend, data, APIs, authentication, and deployment. My 
 - **[Relay](https://github.com/Stommasi19/relay-operations-workspace)** — Workflow workspace for connecting integration evidence, engineering context, and clear next actions across a complex investigation.
 - **[Canvas LMS](https://github.com/Stommasi19/canvas-lms)** — Collaborative full-stack learning-management system with React, Express, MongoDB, session-based access, and role-aware course and quiz workflows.
 
-## How I work
-
-I like the parts of engineering that require range: understanding the problem, designing a clean interface, working through data and state, integrating the right services, testing the risky paths, and improving the experience when the first version meets reality.
 
 ## Tools and technologies
 
